@@ -4,7 +4,7 @@ import { EquationService } from '../equation.service';
 @Component({
   selector: 'app-equation-page',
   templateUrl: './equation-page.component.html',
-  styleUrls: ['./equation-page.component.css']
+  styleUrls: ['./equation-page.component.scss']
 })
 export class EquationPageComponent {
 
